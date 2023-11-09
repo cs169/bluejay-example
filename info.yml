@@ -1,0 +1,24 @@
+project:
+  name: 'CS169-fa23-XX'
+  owner: 'fa23'
+  teamId: 'XX'
+  identities: {}
+  notifications:
+    email: 'XXXXXXXXXXX'
+  members:
+    member1:
+      name: 'Manuel'
+      surname: 'Otero' 
+      githubUsername: 'motero2k'
+    member2:
+      name: 'Javi'
+      surname: 'Fernandez' 
+      githubUsername: 'JaviFdez7'
+    member3:
+      name: 'XXXXXXXXXXX'
+      surname: 'XXXXXXXXXXX' 
+      githubUsername: 'XXXXXXXXXXX'
+    member4:
+      name: 'XXXXXXXXXXX'
+      surname: 'XXXXXXXXXXX' 
+      githubUsername: 'XXXXXXXXXXX'
